@@ -1,0 +1,38 @@
+2020-03-30T02:26:25+00:00 CRITICAL /www/wwwroot/www.snailukes.net/wp-content/themes/Avada/includes/avada-functions.php 中第 521 行的 Uncaught Error: Call to a member function get_cart_contents_count() on null in /www/wwwroot/www.snailukes.net/wp-content/themes/Avada/includes/avada-functions.php:521
+Stack trace:
+#0 /www/wwwroot/www.snailukes.net/wp-content/themes/Avada/includes/avada-functions.php(684): avada_nav_woo_cart('main')
+#1 /www/wwwroot/www.snailukes.net/wp-includes/class-wp-hook.php(288): avada_add_woo_cart_to_nav('<li  id="menu-i...', Object(stdClass))
+#2 /www/wwwroot/www.snailukes.net/wp-includes/plugin.php(206): WP_Hook->apply_filters('<li  id="menu-i...', Array)
+#3 /www/wwwroot/www.snailukes.net/wp-includes/nav-menu-template.php(247): apply_filters('wp_nav_menu_ite...', '<li  id="menu-i...', Object(stdClass))
+#4 /www/wwwroot/www.snailukes.net/wp-content/themes/Avada/includes/avada-functions.php(1356): wp_nav_menu(Object(stdClass))
+#5 /www/wwwroot/www.snailukes.net/wp-content/themes/Avada/templates/header-v1.php(24): avada_main_menu()
+#6 /www/wwwroot/www.snailukes.net/wp-includes/template.php(724): require('/www/wwwroot/ww...')
+
+2020-03-30T08:54:38+00:00 CRITICAL /www/wwwroot/www.snailukes.net/wp-content/themes/Avada/functions.php 中第 61 行的 syntax error, unexpected '$array' (T_VARIABLE)
+
+2020-03-30T09:00:47+00:00 CRITICAL /www/wwwroot/www.snailukes.net/wp-content/themes/Avada/functions.php 中第 61 行的 syntax error, unexpected '$array' (T_VARIABLE)
+
+2020-03-30T09:03:14+00:00 CRITICAL /www/wwwroot/www.snailukes.net/wp-content/themes/Avada/functions.php 中第 61 行的 syntax error, unexpected '$array' (T_VARIABLE)
+
+2020-03-30T09:07:59+00:00 CRITICAL /www/wwwroot/www.snailukes.net/wp-content/themes/Avada/functions.php 中第 61 行的 syntax error, unexpected '$array' (T_VARIABLE)
+
+2020-03-30T09:15:11+00:00 CRITICAL /www/wwwroot/www.snailukes.net/wp-content/themes/Avada/functions.php 中第 61 行的 syntax error, unexpected '$array' (T_VARIABLE)
+
+2020-03-30T09:24:31+00:00 CRITICAL /www/wwwroot/www.snailukes.net/wp-content/themes/Avada/functions.php 中第 71 行的 syntax error, unexpected '$info' (T_VARIABLE)
+
+2020-03-30T09:24:31+00:00 CRITICAL /www/wwwroot/www.snailukes.net/wp-content/themes/Avada/functions.php 中第 71 行的 syntax error, unexpected '$info' (T_VARIABLE)
+
+2020-03-30T09:24:31+00:00 CRITICAL /www/wwwroot/www.snailukes.net/wp-content/themes/Avada/functions.php 中第 71 行的 syntax error, unexpected '$info' (T_VARIABLE)
+
+2020-03-30T09:24:31+00:00 CRITICAL /www/wwwroot/www.snailukes.net/wp-content/themes/Avada/functions.php 中第 71 行的 syntax error, unexpected '$info' (T_VARIABLE)
+
+2020-03-30T09:24:31+00:00 CRITICAL /www/wwwroot/www.snailukes.net/wp-content/themes/Avada/functions.php 中第 71 行的 syntax error, unexpected '$info' (T_VARIABLE)
+
+2020-03-30T09:24:31+00:00 CRITICAL /www/wwwroot/www.snailukes.net/wp-content/themes/Avada/functions.php 中第 71 行的 syntax error, unexpected '$info' (T_VARIABLE)
+
+2020-03-30T09:24:31+00:00 CRITICAL /www/wwwroot/www.snailukes.net/wp-content/themes/Avada/functions.php 中第 71 行的 syntax error, unexpected '$info' (T_VARIABLE)
+
+2020-03-30T09:25:42+00:00 CRITICAL /www/wwwroot/www.snailukes.net/wp-content/themes/Avada/functions.php 中第 71 行的 syntax error, unexpected '$info' (T_VARIABLE)
+
+2020-03-30T09:26:26+00:00 CRITICAL /www/wwwroot/www.snailukes.net/wp-content/themes/Avada/functions.php 中第 71 行的 syntax error, unexpected '$info' (T_VARIABLE)
+
